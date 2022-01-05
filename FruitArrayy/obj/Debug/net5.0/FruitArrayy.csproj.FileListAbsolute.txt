@@ -1,0 +1,15 @@
+C:\Users\angel\source\repos\StringAndArrays\FruitArrayy\bin\Debug\net5.0\FruitArrayy.exe
+C:\Users\angel\source\repos\StringAndArrays\FruitArrayy\bin\Debug\net5.0\FruitArrayy.deps.json
+C:\Users\angel\source\repos\StringAndArrays\FruitArrayy\bin\Debug\net5.0\FruitArrayy.runtimeconfig.json
+C:\Users\angel\source\repos\StringAndArrays\FruitArrayy\bin\Debug\net5.0\FruitArrayy.runtimeconfig.dev.json
+C:\Users\angel\source\repos\StringAndArrays\FruitArrayy\bin\Debug\net5.0\FruitArrayy.dll
+C:\Users\angel\source\repos\StringAndArrays\FruitArrayy\bin\Debug\net5.0\ref\FruitArrayy.dll
+C:\Users\angel\source\repos\StringAndArrays\FruitArrayy\bin\Debug\net5.0\FruitArrayy.pdb
+C:\Users\angel\source\repos\StringAndArrays\FruitArrayy\obj\Debug\net5.0\FruitArrayy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\source\repos\StringAndArrays\FruitArrayy\obj\Debug\net5.0\FruitArrayy.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\StringAndArrays\FruitArrayy\obj\Debug\net5.0\FruitArrayy.AssemblyInfo.cs
+C:\Users\angel\source\repos\StringAndArrays\FruitArrayy\obj\Debug\net5.0\FruitArrayy.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\StringAndArrays\FruitArrayy\obj\Debug\net5.0\FruitArrayy.dll
+C:\Users\angel\source\repos\StringAndArrays\FruitArrayy\obj\Debug\net5.0\ref\FruitArrayy.dll
+C:\Users\angel\source\repos\StringAndArrays\FruitArrayy\obj\Debug\net5.0\FruitArrayy.pdb
+C:\Users\angel\source\repos\StringAndArrays\FruitArrayy\obj\Debug\net5.0\FruitArrayy.genruntimeconfig.cache

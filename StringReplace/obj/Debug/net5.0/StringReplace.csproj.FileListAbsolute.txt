@@ -1,0 +1,15 @@
+C:\Users\angel\source\repos\StringAndArrays\StringReplace\bin\Debug\net5.0\StringReplace.exe
+C:\Users\angel\source\repos\StringAndArrays\StringReplace\bin\Debug\net5.0\StringReplace.deps.json
+C:\Users\angel\source\repos\StringAndArrays\StringReplace\bin\Debug\net5.0\StringReplace.runtimeconfig.json
+C:\Users\angel\source\repos\StringAndArrays\StringReplace\bin\Debug\net5.0\StringReplace.runtimeconfig.dev.json
+C:\Users\angel\source\repos\StringAndArrays\StringReplace\bin\Debug\net5.0\StringReplace.dll
+C:\Users\angel\source\repos\StringAndArrays\StringReplace\bin\Debug\net5.0\ref\StringReplace.dll
+C:\Users\angel\source\repos\StringAndArrays\StringReplace\bin\Debug\net5.0\StringReplace.pdb
+C:\Users\angel\source\repos\StringAndArrays\StringReplace\obj\Debug\net5.0\StringReplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\source\repos\StringAndArrays\StringReplace\obj\Debug\net5.0\StringReplace.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\StringAndArrays\StringReplace\obj\Debug\net5.0\StringReplace.AssemblyInfo.cs
+C:\Users\angel\source\repos\StringAndArrays\StringReplace\obj\Debug\net5.0\StringReplace.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\StringAndArrays\StringReplace\obj\Debug\net5.0\StringReplace.dll
+C:\Users\angel\source\repos\StringAndArrays\StringReplace\obj\Debug\net5.0\ref\StringReplace.dll
+C:\Users\angel\source\repos\StringAndArrays\StringReplace\obj\Debug\net5.0\StringReplace.pdb
+C:\Users\angel\source\repos\StringAndArrays\StringReplace\obj\Debug\net5.0\StringReplace.genruntimeconfig.cache
